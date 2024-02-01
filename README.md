@@ -32,7 +32,7 @@ Les contributions à ce projet sont les bienvenues. Si vous souhaitez contribuer
 5. Ouvrez une Pull Request.
 
 ## Licence
-Ce projet est sous licence [insérer le type de licence ici], ce qui permet une utilisation, une modification et une distribution libres.
+Ce projet est sous licence CC0-1.0 license, ce qui permet une utilisation, une modification et une distribution libres.
 
 ## Remerciements
 - Merci à tous les contributeurs et à la communauté pour leur soutien et leurs contributions.
